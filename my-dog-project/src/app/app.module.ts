@@ -5,12 +5,14 @@ import { AppComponent } from './app.component';
 import { NavComponent } from './nav/nav.component';
 import { UserListComponent } from './user-list/user-list.component';
 import { PlaygroundComponent } from './playground/playground.component';
+import { InputFieldComponent } from './input-field/input-field.component';
 @NgModule({
   declarations: [
     AppComponent,
     NavComponent,
     UserListComponent,
-    PlaygroundComponent
+    PlaygroundComponent,
+    InputFieldComponent
   ],
   imports: [
     BrowserModule
