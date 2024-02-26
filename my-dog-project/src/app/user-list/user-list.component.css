@@ -1,0 +1,26 @@
+li {
+    font-size: 33px;
+    border: black solid 2px;
+    text-align: center;
+    height: 50px;
+}
+
+.black {
+    background-color: rgba(0, 0, 0, 0.26);
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
