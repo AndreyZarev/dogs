@@ -1,0 +1,6 @@
+<button class="btn-click" (click)="handleClick($event)">Click Me</button>
+<span [class]="green" *ngIf="toggleMe">Toggled</span>
+
+<img *ngIf="toggleMe" [attr.src]="imgUrl" alt="">
+
+<p [class.shiny]='toggleMe'>This pharagraf will be aqua when clicked!</p>
