@@ -10,6 +10,7 @@ export class InputFieldComponent {
     console.log(username);
     //dont
     //know
+    //how
 
   }
   //  ngOnInit() {
