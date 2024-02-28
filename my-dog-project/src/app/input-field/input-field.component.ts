@@ -12,6 +12,7 @@ export class InputFieldComponent {
     //know
     //how
     //to
+    //clear
 
   }
   //  ngOnInit() {
