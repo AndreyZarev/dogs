@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
 export class InputFieldComponent {
   handleSubmit(username: string) {
     console.log(username);
+    username = ""
 
   }
   //  ngOnInit() {
