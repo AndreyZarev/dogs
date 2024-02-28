@@ -13,7 +13,7 @@ export class InputFieldComponent {
     //how
     //to
     //clear
-
+    //values
   }
   //  ngOnInit() {
 
