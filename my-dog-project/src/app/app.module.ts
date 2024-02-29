@@ -22,7 +22,9 @@ import { InputFieldComponent } from './input-field/input-field.component';
 })
 export class AppModule { }
 class Person {
-  private balance = 0;
+  public balance = 0;
   private name = "Solomon"
 
 }
+
+const p = new Person();
