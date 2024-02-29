@@ -28,4 +28,7 @@ class Person {
 }
 
 const p = new Person();
+//Only the public properties are accessible
 console.log(p.balance);
+
+
