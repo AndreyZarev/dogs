@@ -21,3 +21,8 @@ import { InputFieldComponent } from './input-field/input-field.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+class Person {
+  private balance = 0;
+  private name = "Solomon"
+
+}
