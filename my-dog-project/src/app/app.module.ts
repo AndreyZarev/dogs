@@ -6,13 +6,15 @@ import { NavComponent } from './nav/nav.component';
 import { UserListComponent } from './user-list/user-list.component';
 import { PlaygroundComponent } from './playground/playground.component';
 import { InputFieldComponent } from './input-field/input-field.component';
+import { TestingFileComponent } from './testing-file/testing-file.component';
 @NgModule({
   declarations: [
     AppComponent,
     NavComponent,
     UserListComponent,
     PlaygroundComponent,
-    InputFieldComponent
+    InputFieldComponent,
+    TestingFileComponent
   ],
   imports: [
     BrowserModule
